@@ -1,0 +1,8 @@
+tesseract.OTserver
+tesseract.OTserver.config
+tesseract.OTserver.controllers
+tesseract.OTserver.exceptions
+tesseract.OTserver.mappers
+tesseract.OTserver.objects
+tesseract.OTserver.services
+tesseract.OTserver.util
